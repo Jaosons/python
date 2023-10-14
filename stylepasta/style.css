@@ -26,3 +26,23 @@ label.alternativa {
     background-color: white;
     color: black;
 }
+.bg{
+   background-color:rgb(63, 5, 22)
+}
+.color{
+    color: black;
+}
+.dropdown-toggle{
+    color: white;
+}
+.nav-link:hover{
+   font-weight: bold
+}
+
+.col-3{
+    background-color: #6b6d6c39 !important;
+}
+
+.col-6{
+    background-color: #ffffff !important;
+}
