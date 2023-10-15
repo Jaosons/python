@@ -23,8 +23,8 @@ label.alternativa {
 }
 
 .btn:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 .bg{
    background-color: #1a3151;
