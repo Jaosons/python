@@ -10,17 +10,14 @@ abbr.abreviacao {
     color: black !important;
 }
 .hover:hover {
-    background-color: rgb(140, 0, 0);
-    color: white !important;
-}
-
-.dropdown-toggle:hover {
-    color: white !important;
+    background-color: #0d6efd;
+    color: black;
 }
 
 input[type="radio"]{
     width: 20px;
     height: 20px;
+    cursor: pointer;
 }
 
 label.alternativa {
@@ -34,11 +31,11 @@ label.alternativa {
 }
 
 .btn:hover {
-    background-color: rgba(0, 0, 0, 0.434);
-    color: black;
+    background-color: black;
+    color: white;
 }
 .bg{
-   background-color:rgb(140, 0, 0)
+   background-color: #1a3151;
 }
 .color{ 
     font-weight: bolder !important;
@@ -46,13 +43,15 @@ label.alternativa {
 .dropdown-toggle{
     color: white;
 }
+.nav-link:hover{
+   font-weight: bold
+}
 
 .col-3{
-    background-color: #4c4c4c8a !important;
+    background-color: #6b6d6c39 !important;
 }
 
 .col-6{
     background-color: #ffffff !important;
-    padding-top: 3%;
 }
 
