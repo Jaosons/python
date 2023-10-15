@@ -2,9 +2,18 @@
     margin-top: 120px;
 }
 
+abbr#abreviacao {
+    text-decoration: underline;
+    font-style: italic;
+}
+
 .hover:hover {
-    background-color: #0d6efd;
-    color: black;
+    background-color: rgb(140, 0, 0);
+    color: white;
+}
+
+.dropdown-toggle:hover {
+    color: white !important;
 }
 
 input[type="radio"]{
@@ -23,11 +32,11 @@ label.alternativa {
 }
 
 .btn:hover {
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.434);
     color: black;
 }
 .bg{
-   background-color:rgb(63, 5, 22)
+   background-color:rgb(140, 0, 0)
 }
 .color{
     color: black;
@@ -35,12 +44,9 @@ label.alternativa {
 .dropdown-toggle{
     color: white;
 }
-.nav-link:hover{
-   font-weight: bold
-}
 
 .col-3{
-    background-color: #6b6d6c39 !important;
+    background-color: #4c4c4c8a !important;
 }
 
 .col-6{
