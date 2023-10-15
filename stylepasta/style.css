@@ -28,7 +28,8 @@ label.alternativa {
 }
 .bg{
    background-color: #1a3151;
-  
+   position:  fixed;
+   width: 100%;
 }
 .color{ 
     font-weight: bolder !important;
@@ -46,5 +47,6 @@ label.alternativa {
 
 .col-6{
     background-color: #ffffff !important;
+    padding-top: 3%;
 }
 
