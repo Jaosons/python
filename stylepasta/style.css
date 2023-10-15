@@ -38,8 +38,8 @@ label.alternativa {
 .bg{
    background-color:rgb(140, 0, 0)
 }
-.color{
-    color: black;
+.color{ 
+    font-weight: bolder !important;
 }
 .dropdown-toggle{
     color: white;
@@ -51,4 +51,6 @@ label.alternativa {
 
 .col-6{
     background-color: #ffffff !important;
+    padding-top: 3%;
 }
+
