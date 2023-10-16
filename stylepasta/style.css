@@ -13,16 +13,26 @@ abbr.abreviacao {
     background-color: #3d0627;
     color: white !important;
 }
-
+input[type="submit"]{
+    margin: 20px 0px;
+}
 input[type="radio"]{
     width: 20px;
     height: 20px;
     cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+}
+label.alternativa {
+    margin-left: 10px;
+    font-size: 1.1em;
+    display: inline-block;
+    vertical-align: middle;
+    word-wrap: nowrap;
 }
 
-label.alternativa {
-    margin: 0px 20px 10px 0px;
-    font-size: 1.3em;
+p.alternativa {
+    font-size: 1.1em;
 }
 
 .btn {
@@ -47,10 +57,10 @@ label.alternativa {
    font-weight: bold
 }
 
-.col-3{
+.col-3, .col-2{
     background-color: #6b6d6c39 !important;
 }
 
-.col-6{
+.col-6, .col-8{
     background-color: #ffffff !important;
 }
