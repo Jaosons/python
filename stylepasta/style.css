@@ -1,5 +1,5 @@
-#margin {
-    margin-top: 120px;
+.sticky-top {
+    top: 15% !important;
 }
 
 abbr.abreviacao {
@@ -54,4 +54,3 @@ label.alternativa {
 .col-6{
     background-color: #ffffff !important;
 }
-
