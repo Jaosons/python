@@ -10,8 +10,8 @@ abbr.abreviacao {
     color: black !important;
 }
 .hover:hover {
-    background-color: #0d6efd;
-    color: black;
+    background-color: #3d0627;
+    color: white !important;
 }
 
 input[type="radio"]{
@@ -35,7 +35,7 @@ label.alternativa {
     color: white;
 }
 .bg{
-   background-color: #1a3151;
+   background-color: #3d0627;
 }
 .color{ 
     font-weight: bolder !important;
