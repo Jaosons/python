@@ -28,7 +28,6 @@ label.alternativa {
     font-size: 1.1em;
     display: inline-block;
     vertical-align: middle;
-    word-wrap: nowrap;
 }
 
 p.alternativa {
