@@ -13,7 +13,7 @@ abbr.abreviacao {
     background-color: #3d0627;
     color: white !important;
 }
-input[type="submit"]{
+input[type="button"]{
     margin: 20px 0px;
 }
 input[type="radio"]{
