@@ -23,7 +23,7 @@ input[type="text"], input[type="password"] {
     border-radius: 5px;
 }
 a{
-    background-color: #4CAF50;
+    background-color: #3d0627;
     color: white;
     padding: 8px 20px;
     border: none;
@@ -32,5 +32,5 @@ a{
     text-decoration: none;
 }
 a:hover {
-    background-color: #45a049;
+    background-color: #3d0627;
 }
