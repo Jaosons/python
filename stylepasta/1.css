@@ -1,0 +1,65 @@
+:root {
+    --cor1: #1a3151;
+    --cor2: #f4a51d;
+    --cor3: #ffdb9e;
+}
+
+body {
+    background:  var(--cor1);
+}
+#row {
+    -cor3: #ffdb9e;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: var(--cor1)
+}
+
+.profile-button {
+    background:  var(--cor1);
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background:  var(--cor1)
+}
+
+.profile-button:focus {
+    background:  var(--cor1);
+    box-shadow: none
+}
+
+.profile-button:active {
+    background:  var(--cor1);
+    box-shadow: none
+}
+
+.back:hover {
+    color:  var(--cor1);
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+select {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}
+.border-right{
+    background-color: var(--cor3);
+}
+.row{
+    background-color: var(--cor3);
+}
