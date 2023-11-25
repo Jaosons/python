@@ -63,3 +63,6 @@ select {
 .row{
     background-color: var(--cor3);
 }
+.img {
+    background-color: var(--var);
+}
